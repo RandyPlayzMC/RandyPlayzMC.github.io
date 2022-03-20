@@ -1,6 +1,6 @@
 ## Welcome to the Chat!
 
-You can use the [editor on GitHub](https://github.com/RandyPlayzMC/RandyPlayzMC.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+You can open the chat [here](https://client.chatwee.com/popout/62350520077f054fc501a942) in case you want to open it in a new tab.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
