@@ -3,9 +3,9 @@
 You can open the chat [here](https://client.chatwee.com/popout/62350520077f054fc501a942) in case you want to open it in a new tab.
 
 We'll be adding new updates to this website according to your recommendations! Please tell us using this email: shirandy72@gmail.com
-(I will be adding a message box soon!
+(I will be adding a message box soon!)
 
-### Markdown
+### Chatbox!
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
