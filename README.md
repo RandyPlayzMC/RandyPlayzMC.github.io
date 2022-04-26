@@ -1,31 +1,14 @@
-## Welcome to the Chat!
+## Welcome to my website!
 
-You can open the chat [here](https://client.chatwee.com/popout/62350520077f054fc501a942) in case you want to open it in a new tab.
+I'll be using this website to post updates about my youtube channel.
 
 We'll be adding new updates to this website according to your recommendations! Please tell us using this email: shirandy72@gmail.com
 (I will be adding a message box soon!)
 
-### Chatbox!
+### The links to my socials are right here:
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
+- Youtube: https://www.youtube.com/channel/UCF1JVCBA5SmMBPZ_t51cLOQ
+- Discord: 
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
